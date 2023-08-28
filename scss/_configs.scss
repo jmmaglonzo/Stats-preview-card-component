@@ -1,0 +1,30 @@
+// PRIMARY COLORS
+$mainBackground: hsl(233, 47%, 7%);
+$cardBackground: hsl(244, 38%, 16%);
+$Softvioletaccent: hsl(277, 64%, 61%);
+$violetaccent: hsl(277, 64%, 61%, 0.6);
+
+// NEUTRAL
+$HeadingStats: hsl(0, 0%, 100%);
+$mainParagraph: hsla(0, 0%, 100%, 0.75);
+$statHeadings: hsla(0, 0%, 100%, 0.6);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 1.5rem;
+  background-color: $mainBackground;
+  font-family: "Inter", sans-serif;
+}
