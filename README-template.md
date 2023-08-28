@@ -8,12 +8,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot%202023-08-28%20230535.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/jmmaglonzo/Stats-preview-card-component)
+- Live Site URL: [GithubPages](https://jmmaglonzo.github.io/Stats-preview-card-component/)
 
 ### Built with
 
