@@ -76,8 +76,7 @@
     max-width: 35rem;
 
     .wrapper {
-      display: flex;
-      flex-direction: column-reverse;
+      grid-template-columns: 1fr;
       .content {
         padding: 3rem;
         text-align: center;
@@ -89,6 +88,10 @@
         .desc {
           font-size: 1.6rem;
         }
+      }
+
+      .img-header {
+        order: -1;
       }
       .img-header img {
         content: url(/images/image-header-mobile.jpg);
